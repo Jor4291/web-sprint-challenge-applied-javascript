@@ -30,7 +30,7 @@ const techCiv = document.createElement('div');
 techCiv.setAttribute('class', 'tab');
 techCiv.textContent = "technology";
 
-
+return topics
 
 }
 
